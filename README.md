@@ -1,6 +1,6 @@
 # React-Email Repository
 
-![React-Email Logo](path_to_logo.png) <!-- You can replace 'path_to_logo.png' with the path to your logo if you have one -->
+![React-Email Logo](![image](https://github.com/LukasKlockenhoff/React-Email/assets/71593985/f4594631-8435-4e2f-88b0-e22eb933b2d1)) <!-- You can replace 'path_to_logo.png' with the path to your logo if you have one -->
 
 Welcome to the `react-email` repository! This repository is dedicated to showcasing the power and flexibility of the `react-email` library, enabling developers to craft custom emails using code. With the help of this library, you can seamlessly integrate email sending functionality into your web applications.
 
